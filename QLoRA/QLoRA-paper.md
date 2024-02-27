@@ -95,4 +95,4 @@
 * 논문대로라면 부족한 자원에서는 QLoRA 로 학습을 시도해봐도 될듯 
 
 # 관련 코드
-* 
+* https://github.com/wotres/deep-learning-study/blob/main/KeT5_Translation_with_QLoRA.ipynb
